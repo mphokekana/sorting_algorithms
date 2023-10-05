@@ -75,3 +75,4 @@ void heap_sort(int *array, size_t size)
 		sift_down(array, 0, end, size);
 	}
 }
+
