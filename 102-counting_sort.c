@@ -47,3 +47,4 @@ void counting_sort(int *array, size_t size)
 	free(count);
 	free(copy);
 }
+
