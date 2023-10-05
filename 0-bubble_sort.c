@@ -30,3 +30,4 @@ void bubble_sort(int *array, size_t size)
 		n = new;
 	} while (n >= 1);
 }
+
