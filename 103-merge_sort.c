@@ -84,3 +84,4 @@ void merge_sort(int *array, size_t size)
 	TDSplitMerge(0, size, array, clone);
 	free(clone);
 }
+
