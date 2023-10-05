@@ -57,4 +57,3 @@ void move_left(listint_t *curr, listint_t *insertion, listint_t **head)
 		*head = curr;
 	print_list(*head);
 }
-
