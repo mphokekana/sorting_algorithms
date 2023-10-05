@@ -75,3 +75,4 @@ void bitonic_sort(int *array, size_t size)
 		return;
 	bit_sort(1, array, size, size);
 }
+
